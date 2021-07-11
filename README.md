@@ -1,1 +1,53 @@
 # Resume
+# P.Vaishnavi
+### Personal Details
+- Name : P.Vaishnavi <br>
+- Mail id : vaishnavireddyrock@gmail.com <br>
+- phone no : 91+ 1234567890 <br>
+- Address : proddatur <br>
+### Educational Details
+**B.Tech**
+- College Name : GITAMW <br>
+- Branch : CSE <br>
+- Year of pass :2020 <br>
+- Percentage : 70 <br>
+- Address : Proddatur <br>
+
+**Intermediate**
+- College Name : Bhavana Junior college <br>
+- Branch : MPC <br>
+- Year of pass :2016 <br>
+- Percentage : 74.3 <br>
+- Address : Proddatur <br>
+
+**SSC**
+- School Name : SVVV high school <br> 
+- Year of pass : 2014 <br>
+- Percentage : 80 <br>
+- Addess : Yerraguntla <br>
+
+### **Skills**
+- Python : 40%
+- JAVA : 20%
+- DBMS : 50%
+- SQL : 60%
+- c programming : 80%
+- IOT : 50%
+
+### **Goals**
+I want to become a "software Developer" in MNC
+### **Hobbies**
+- Reading Books <br>
+- Listening Songs <br>
+- Doing Meditation <br>
+- Playing Games <br>
+### **Strenths & Weaknesses**
+- Hard Working
+- Logical Thinking
+- Lazyness
+### **Projects** 
+- Display time in HTML
+- Expensive Tracker in Android
+- A Hybrid Approach for Detecting Automated Spammers in Twitter
+- Github
+
