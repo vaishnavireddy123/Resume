@@ -17,7 +17,7 @@
 - College Name : Bhavana Junior college <br>
 - Branch : MPC <br>
 - Year of pass :2016 <br>
-- Percentage : 74.3 <br>
+- Percentage : 73.4 <br>
 - Address : Proddatur <br>
 
 **SSC**
