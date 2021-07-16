@@ -3,7 +3,7 @@
 ### Personal Details
 - Name : P.Vaishnavi <br>
 - Mail id : vaishnavireddyrock@gmail.com <br>
-- phone no : 91+ 1234567890 <br>
+- phone no : 91+ 7815838925 <br>
 - Address : proddatur <br>
 ### Educational Details
 **B.Tech**
@@ -35,7 +35,7 @@
 - IOT : 50%
 
 ### **Goals**
-I want to become a "software Developer" in MNC
+I want to become a "software Developer" in MNC company.
 ### **Hobbies**
 - Reading Books <br>
 - Listening Songs <br>
@@ -46,8 +46,17 @@ I want to become a "software Developer" in MNC
 - Logical Thinking
 - Lazyness
 ### **Projects** 
-- Display time in HTML
-- Expensive Tracker in Android
-- A Hybrid Approach for Detecting Automated Spammers in Twitter
+- A Hybrid Approach for Detecting Automated Spammers in Twitter.
 - Github
+### **Extra Curricular Activities**
+- I trained in a APSSDC courses like Basics of Python,AWS Cloud Literacy,Ms office,Digital Marketing & E Comerce,Collaborative Robots (COOBOTS)& Entreprenurship Motivation Training.
+- presented a paper on "Applications of Artificial Intelligence in Internet of Things",Madanapalle Institute of Technology & science,Madanapalle,chittor dist.
+- presented a poster on "GIFI" technology in our college fest.
+- presented a working model in technical exhibition on "Display clock by using html",Santhiram Engineering College,Nandyal.
+- presented a working model in technical exhibition on "Expense Tracker by Android" during Technical fest in our college.
+- presented a poster on "5G" technology in K.S.R.M College of Engineering.
+- I participated in the Brain Squeezer in K.S.R.M College of Engineering.
+- I participated in the CODATHON in K.S.R.M College of Engineering.
+- I attended a workshop on "CYBER SECURITY & ETHICAL HACKING",Santhiram Enginering College.
+- I attended a workshop on "AMAZON WEB SERVICES" in our college.
 
