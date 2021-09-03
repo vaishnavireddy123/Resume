@@ -10,7 +10,7 @@
 - College Name : GITAMW <br>
 - Branch : CSE <br>
 - Year of pass :2020 <br>
-- Percentage : 70 <br>
+- CGPA : 6.95 <br>
 - Address : Proddatur <br>
 
 **Intermediate**
