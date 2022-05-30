@@ -4,7 +4,6 @@
 - Name : P.Vaishnavi <br>
 - Mail id : vaishnavireddyrock@gmail.com <br>
 - phone no : 91+ 7815838925 <br>
-- Address : proddatur <br>
 ### Educational Details
 **B.Tech**
 - College Name : GITAMW <br>
